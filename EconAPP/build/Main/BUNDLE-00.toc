@@ -1,0 +1,1 @@
+([('Main', '/Users/igorm/Desktop/EconAPP/dist/Main', 'EXECUTABLE')],)
